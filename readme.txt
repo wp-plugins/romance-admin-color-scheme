@@ -16,6 +16,15 @@ Pink is the gentlest of all romantic colors.It is the perfect color for new rela
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
 
+**Download My Other Plugins**
+
+[Mini Membership](https://wordpress.org/plugins/mini-membership/)
+[Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
+[Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
+[Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
+[Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
+[Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
+
 
 ==Installation== 
 
