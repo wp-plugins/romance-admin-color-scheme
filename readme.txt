@@ -11,7 +11,7 @@ A custom admin color scheme that will make your heart skip a beat.
 
 == Description == 
 
-Pink is the gentlest of all romantic colors.It is the perfect color for new relationships. This admin color scheme brings the color of Romance to your dashboard, come fall in love with WordPress. 
+Pink is the gentlest of all romantic colors.It is the perfect color for new relationships. This admin color scheme brings the color of Romance to your dashboard, come fall in love with WordPress.Check out [WP Admin Color Schemes](https://wordpress.org/plugins/wp-admin-color-schemes/) for even more color options. 
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
