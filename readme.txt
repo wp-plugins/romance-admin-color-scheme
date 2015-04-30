@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   admin, dashboard, color, theme, custom, pink, love
 Requires at least: 3.8
-Tested up to: 4.1
+Tested up to: 4.2.1
 Stable tag: trunk
 License: GPLv2
 
