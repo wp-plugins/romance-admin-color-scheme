@@ -2,7 +2,7 @@
 Contributors: meabhisek
 Tags:   admin, dashboard, color, theme, custom, pink, love
 Requires at least: 3.8
-Tested up to: 4.2.1
+Tested up to: 4.3
 Stable tag: trunk
 License: GPLv2
 
@@ -18,12 +18,12 @@ Visit [Developer Website](http://increasy.com)
 
 **Download My Other Plugins**
 
-[Mini Membership](https://wordpress.org/plugins/mini-membership/)
-[Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
-[Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
-[Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
-[Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
-[Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
+* [Mini Membership](https://wordpress.org/plugins/mini-membership/)
+* [Private Content Login Redirect](https://wordpress.org/plugins/private-content-login-redirect/)
+* [Rainbow Status](https://wordpress.org/plugins/rainbow-status/)
+* [Restrict Dashboard Access](https://wordpress.org/plugins/restrict-dashboard-access/)
+* [Frame Breaker](https://wordpress.org/plugins/frame-breaker/)
+* [Inspire Dolly](https://wordpress.org/plugins/inspire-dolly/)
 
 
 ==Installation== 
